@@ -1,6 +1,7 @@
 <?php
 require_once 'connect.php';
 require_once 'header.php';
+ini_set("display_errors"1:)
 ?>
 
 <div class="w3-panel">

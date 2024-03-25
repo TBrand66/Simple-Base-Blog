@@ -38,3 +38,4 @@ To change your password, hash your password with PHP's `password_hash()` functio
 
 ![screenshot_01](https://user-images.githubusercontent.com/16838612/66112823-78d32e00-e5c3-11e9-9b38-93ba488071e0.jpg)
 ![screenshot_02](https://user-images.githubusercontent.com/16838612/66112874-8d172b00-e5c3-11e9-97e4-590da5675100.jpg)
+# Simple-Base-Blog
